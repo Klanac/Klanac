@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Klanac
 - 👀 I’m interested in game & full-stack web development!
 - 🌱 I’m currently learning C#, HTML, CSS, JavaScript & SQL!
-- What I have made:
+- 🛠️ Everything I've programmed so far:
   - [Matrix library](https://github.com/Klanac/Matrix-Library) for JS
   - [Matrix calculator](https://kalkulatormatrica.github.io/)
