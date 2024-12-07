@@ -6,3 +6,4 @@
 # My projects:
   - [Matrix library](https://github.com/Klanac/Matrix-Library) for JS
   - [Matrix calculator](https://kalkulatormatrica.github.io/)
+  - [Linearno programiranje](https://linearnoprogramiranje.github.io/)
